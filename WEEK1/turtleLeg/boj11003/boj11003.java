@@ -1,4 +1,4 @@
-package taehyeon.boj11003;
+package WEEK1.turtleLeg.boj11003;
 
 import java.io.*;
 import java.util.*;

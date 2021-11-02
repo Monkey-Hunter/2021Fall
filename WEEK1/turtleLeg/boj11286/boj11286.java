@@ -1,4 +1,4 @@
-package taehyeon.boj11286;
+package WEEK1.turtleLeg.boj11286;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

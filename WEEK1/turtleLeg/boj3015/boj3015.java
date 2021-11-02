@@ -1,4 +1,4 @@
-package taehyeon.boj3015;
+package WEEK1.turtleLeg.boj3015;
 
 import java.io.BufferedReader;
 import java.io.IOException;
